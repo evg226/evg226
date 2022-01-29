@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Evgeny Ivanov
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me evg226@hotmail.com
 
 <!---
